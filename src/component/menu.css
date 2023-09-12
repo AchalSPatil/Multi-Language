@@ -1,0 +1,26 @@
+.menu-wrapper{
+    margin-top: 20px;
+}
+.menu-wrapper a{
+    padding: 20px;
+
+    border: 1px solid #000;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    background-color: lightgreen;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: green;
+  }
